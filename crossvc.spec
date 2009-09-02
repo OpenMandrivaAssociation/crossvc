@@ -1,6 +1,6 @@
 Name:		crossvc
 Version:	1.5.2
-Release:	%{mkrel 1}
+Release:	%{mkrel 2}
 Summary:	Graphical version control (frontend to CVS and SVN)
 License:	GPLv2+
 Group:		Development/Other
