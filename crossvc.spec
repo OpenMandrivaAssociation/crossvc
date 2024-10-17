@@ -4,7 +4,7 @@ Release:	%{mkrel 2}
 Summary:	Graphical version control (frontend to CVS and SVN)
 License:	GPLv2+
 Group:		Development/Other
-URL:		http://crossvc.com/
+URL:		https://crossvc.com/
 Source0:	http://crossvc.com/download/%{name}-%{version}-0-generic-src.tgz
 Source1:	lincvs_16.png
 Source2:	lincvs_32.png
